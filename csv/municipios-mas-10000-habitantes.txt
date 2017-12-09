@@ -1,0 +1,736 @@
+# 	Nombre 	Población (2016) 	Población(2000) 	Provincia 	Comunidad autónoma
+1 	Madrid 	3 165 541 	2 882 860 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+2 	Barcelona 	1 608 746 	1 496 266 	Barcelona 	Flag of Catalonia.svg Cataluña
+3 	Valencia 	790 201 	739 014 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+4 	Sevilla 	690 566 	700 716 	Sevilla 	Flag of Andalucía.svg Andalucía
+5 	Zaragoza 	661 108 	604 631 	Zaragoza 	Flag of Aragon.svg Aragón
+6 	Málaga 	569 009 	531 565 	Málaga 	Flag of Andalucía.svg Andalucía
+7 	Murcia 	441 003 	357 166 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+8 	Palma 	402 949 	333 925 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+9 	Las Palmas de Gran Canaria 	378 998 	358 518 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+10 	Bilbao 	345 122 	354 271 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+11 	Alicante 	330 525 	276 886 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+12 	Córdoba 	326 609 	313 463 	Córdoba 	Flag of Andalucía.svg Andalucía
+13 	Valladolid 	301 876 	319 129 	Valladolid 	Flag of Castile and León.svg Castilla y León
+14 	Vigo 	292 817 	285 526 	Pontevedra 	Flag of Galicia.svg Galicia
+15 	Gijón 	273 422 	267 426 	Asturias 	Flag of Asturias.svg Asturias
+16 	Hospitalet de Llobregat 	254 804 	241 782 	Barcelona 	Flag of Catalonia.svg Cataluña
+17 	Vitoria-Gasteiz 	244 634 	217 358 	Álava 	Flag of the Basque Country.svg País Vasco
+18 	A Coruña 	243 978 	241 769 	A Coruña 	Flag of Galicia.svg Galicia
+19 	Granada 	234 758 	244 486 	Granada 	Flag of Andalucía.svg Andalucía
+20 	Elche 	227 659 	195 791 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+21 	Oviedo 	220 567 	200 411 	Asturias 	Flag of Asturias.svg Asturias
+22 	Badalona 	215 634 	208 944 	Barcelona 	Flag of Catalonia.svg Cataluña
+23 	Tarrasa 	215 121 	171 794 	Barcelona 	Flag of Catalonia.svg Cataluña
+24 	Cartagena 	214 759 	179 939 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+25 	Jerez de la Frontera 	212 830 	183 677 	Cádiz 	Flag of Andalucía.svg Andalucía
+26 	Sabadell 	208 246 	183 727 	Barcelona 	Flag of Catalonia.svg Cataluña
+27 	Móstoles 	205 614 	196 289 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+28 	Santa Cruz de Tenerife 	203 585 	215 132 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+29 	Pamplona 	201 311 	182 666 	Navarra 	Bandera de Navarra.svg Navarra
+30 	Alcalá de Henares 	195 907 	166 397 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+31 	Almería 	194 515 	168 945 	Almería 	Flag of Andalucía.svg Andalucía
+32 	Fuenlabrada 	194 171 	173 788 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+33 	Leganés 	187 173 	172 049 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+34 	Donostia-San Sebastián 	186 064 	180 277 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+35 	Getafe 	176 659 	146 310 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+36 	Burgos 	176 608 	163 358 	Burgos 	Flag of Castile and León.svg Castilla y León
+37 	Santander 	172 656 	184 264 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+38 	Albacete 	172 426 	149 667 	Albacete 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+39 	Castellón de la Plana 	170 990 	142 285 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+40 	Alcorcón 	167 354 	144 636 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+41 	San Cristóbal de La Laguna 	153 111 	126 543 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+42 	Logroño 	150 876 	128 493 	La Rioja 	Flag of La Rioja (with coat of arms).svg La Rioja
+43 	Badajoz 	149 946 	136 136 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+44 	Huelva 	145 468 	140 985 	Huelva 	Flag of Andalucía.svg Andalucía
+45 	Salamanca 	144 949 	158 556 	Salamanca 	Flag of Castile and León.svg Castilla y León
+46 	Marbella 	140 744 	105 910 	Málaga 	Flag of Andalucía.svg Andalucía
+47 	Lleida 	138 144 	112 194 	Lleida 	Flag of Catalonia.svg Cataluña
+48 	Dos Hermanas 	131 855 	97 324 	Sevilla 	Flag of Andalucía.svg Andalucía
+49 	Tarragona 	131 094 	114 097 	Tarragona 	Flag of Catalonia.svg Cataluña
+50 	Torrejón de Ardoz 	126 981 	94 161 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+51 	León 	126 192 	138 006 	León 	Flag of Castile and León.svg Castilla y León
+52 	Mataró 	125 517 	104 659 	Barcelona 	Flag of Catalonia.svg Cataluña
+53 	Parla 	124 661 	74 203 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+54 	Algeciras 	120 601 	104 087 	Cádiz 	Flag of Andalucía.svg Andalucía
+55 	Cádiz 	118 919 	140 061 	Cádiz 	Flag of Andalucía.svg Andalucía
+56 	Santa Coloma de Gramanet 	117 153 	117 127 	Barcelona 	Flag of Catalonia.svg Cataluña
+57 	Jaén 	114 658 	110 781 	Jaén 	Flag of Andalucía.svg Andalucía
+58 	Alcobendas 	113 340 	89 612 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+59 	Ourense 	105 893 	108 647 	Ourense 	Flag of Galicia.svg Galicia
+60 	Reus 	103 615 	89 179 	Tarragona 	Flag of Catalonia.svg Cataluña
+61 	Telde 	102 164 	88 110 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+62 	Baracaldo 	100 228 	97 281 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+63 	Lugo 	98 268 	Lugo 	Flag of Galicia.svg Galicia
+64 	Gerona 	98 255 	Gerona 	Flag of Catalonia.svg Cataluña
+65 	Santiago de Compostela 	95 966 	A Coruña 	Flag of Galicia.svg Galicia
+66 	San Fernando 	95 949 	Cádiz 	Flag of Andalucía.svg Andalucía
+67 	Cáceres 	95 814 	Cáceres 	Flag of Extremadura (with coat of arms).svg Extremadura
+68 	Las Rozas de Madrid 	94 471 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+69 	Roquetas de Mar 	91 965 	Almería 	Flag of Andalucía.svg Andalucía
+70 	Lorca 	91 730 	Murcia 	Flag of the Region of Murcia.svg Murcia
+71 	San Cugat del Vallés 	88 921 	Barcelona 	Flag of Catalonia.svg Cataluña
+72 	El Ejido 	88 752 	Almería 	Flag of Andalucía.svg Andalucía
+73 	El Puerto de Santa María 	88 184 	Cádiz 	Flag of Andalucía.svg Andalucía
+74 	San Sebastián de los Reyes 	86 206 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+75 	Cornellá de Llobregat 	86 072 	Barcelona 	Flag of Catalonia.svg Cataluña
+76 	Melilla 	86 026 	Melilla 	Flag of Melilla.svg Melilla
+77 	Pozuelo de Alarcón 	84 989 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+78 	Coslada 	84 533 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+79 	Ceuta 	84 519 	Ceuta 	Flag Ceuta.svg Ceuta
+80 	Torrevieja 	84 213 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+81 	Talavera de la Reina 	84 119 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+82 	Guadalajara 	83 633 	Guadalajara 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+83 	Toledo 	83 459 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+84 	Rivas-Vaciamadrid 	82 715 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+85 	Chiclana de la Frontera 	82 645 	Cádiz 	Flag of Andalucía.svg Andalucía
+86 	Pontevedra 	82 549 	Pontevedra 	Flag of Galicia.svg Galicia
+87 	San Baudilio de Llobregat 	82 402 	Barcelona 	Flag of Catalonia.svg Cataluña
+88 	Torrent 	80 762 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+89 	Orihuela 	80 359 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+90 	Avilés 	80 114 	Principado de Asturias 	Flag of Asturias.svg Asturias
+91 	Arona 	79 172 	S. C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+92 	Palencia 	79 137 	Palencia 	Flag of Castile and León.svg Castilla y León
+93 	Vélez-Málaga 	78 890 	Málaga 	Flag of Andalucía.svg Andalucía
+94 	Guecho 	78 554 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+95 	Mijas 	77 769 	Málaga 	Flag of Andalucía.svg Andalucía
+96 	Fuengirola 	77 486 	Málaga 	Flag of Andalucía.svg Andalucía
+97 	Rubí 	75 167 	Barcelona 	Flag of Catalonia.svg Cataluña
+98 	Alcalá de Guadaíra 	75 080 	Sevilla 	Flag of Andalucía.svg Andalucía
+99 	Gandía 	74 814 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+100 	Manresa 	74 752 	Barcelona 	Flag of Catalonia.svg Cataluña
+101 	Ciudad Real 	74 054 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+102 	Valdemoro 	72 988 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+103 	Majadahonda 	70 755 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+104 	Molina de Segura 	69 614 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+105 	Santa Lucía de Tirajana 	69 178 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+106 	Ferrol 	68 308 	La Coruña 	Flag of Galicia.svg Galicia
+107 	Paterna 	67 854 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+108 	Torremolinos 	67 786 	Málaga 	Flag of Andalucía.svg Andalucía
+109 	Sanlúcar de Barrameda 	67 620 	Cádiz 	Flag of Andalucía.svg Andalucía
+110 	Benalmádena 	67 245 	Málaga 	Flag of Andalucía.svg Andalucía
+111 	Estepona 	66 683 	Málaga 	Flag of Andalucía.svg Andalucía
+112 	Benidorm 	66 642 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+113 	Ponferrada 	66 447 	León 	Flag of Castile and León.svg Castilla y León
+114 	Villanueva y Geltrú 	65 972 	Barcelona 	Flag of Catalonia.svg Cataluña
+115 	Viladecans 	65 779 	Barcelona 	Flag of Catalonia.svg Cataluña
+116 	Casteldefels 	64 892 	Barcelona 	Flag of Catalonia.svg Cataluña
+117 	Sagunto 	64 439 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+118 	El Prat de Llobregat 	63 457 	Barcelona 	Flag of Catalonia.svg Cataluña
+119 	La Línea de la Concepción 	63 278 	Cádiz 	Flag of Andalucía.svg Andalucía
+120 	Zamora 	63 217 	Zamora 	Flag of Castile and León.svg Castilla y León
+121 	Irún 	61 608 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+122 	Collado Villalba 	61 597 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+123 	Motril 	60 368 	Granada 	Flag of Andalucía.svg Andalucía
+124 	Granollers 	60 174 	Barcelona 	Flag of Catalonia.svg Cataluña
+125 	Alcoy 	59 198 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+126 	Mérida 	59 174 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+127 	Linares 	58 829 	Jaén 	Flag of Andalucía.svg Andalucía
+128 	Arrecife 	58 537 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+129 	Ávila 	58 083 	Ávila 	Flag of Castile and León.svg Castilla y León
+130 	Aranjuez 	57 932 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+131 	Sardañola del Vallés 	57 543 	Barcelona 	Flag of Catalonia.svg Cataluña
+132 	San Vicente del Raspeig 	56 715 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+133 	Cuenca 	55 102 	Cuenca 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+134 	Arganda del Rey 	54 256 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+135 	San Bartolomé de Tirajana 	53 829 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+136 	Torrelavega 	52 819 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+137 	Elda 	52 745 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+138 	Utrera 	52 674 	Sevilla 	Flag of Andalucía.svg Andalucía
+139 	Huesca 	52 282 	Huesca 	Flag of Aragon.svg Aragón
+140 	Segovia 	52 257 	Segovia 	Flag of Castile and León.svg Castilla y León
+141 	Siero 	51 969 	Principado de Asturias 	Flag of Asturias.svg Asturias
+142 	Mollet del Vallés 	51 491 	Barcelona 	Flag of Catalonia.svg Cataluña
+143 	Villarreal 	50 306 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+144 	Ibiza 	49 549 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+145 	Pinto 	49 522 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+146 	Puertollano 	49 166 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+147 	Colmenar Viejo 	48 020 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+148 	Adeje 	47 316 	S. C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+149 	Portugalete 	46 375 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+150 	Gavá 	46 266 	Barcelona 	Flag of Catalonia.svg Cataluña
+151 	Santurce 	46 043 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+152 	Esplugas de Llobregat 	45 733 	Barcelona 	Flag of Catalonia.svg Cataluña
+153 	Figueras 	45 726 	Gerona 	Flag of Catalonia.svg Cataluña
+154 	Granadilla de Abona 	45 332 	S. C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+155 	Mairena del Aljarafe 	45 040 	Sevilla 	Flag of Andalucía.svg Andalucía
+156 	Tres Cantos 	44 764 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+157 	Alcira 	44 488 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+158 	San Feliú de Llobregat 	44 086 	Barcelona 	Flag of Catalonia.svg Cataluña
+159 	Rincón de la Victoria 	44 003 	Málaga 	Flag of Andalucía.svg Andalucía
+160 	Vich 	43 287 	Barcelona 	Flag of Catalonia.svg Cataluña
+161 	Mislata 	42 988 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+162 	Lucena 	42 615 	Córdoba 	Flag of Andalucía.svg Andalucía
+163 	Puerto Real 	41 467 	Cádiz 	Flag of Andalucía.svg Andalucía
+164 	Denia 	41 465 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+165 	La Orotava 	41 294 	S. C. de Tenerife 	Flag of the Canary Islands.svg Canarias
+166 	Langreo 	41 199 	Principado de Asturias 	Flag of Asturias.svg Asturias
+167 	Alcantarilla 	41 155 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+168 	Antequera 	41 065 	Málaga 	Flag of Andalucía.svg Andalucía
+169 	Basauri 	40 983 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+170 	Plasencia 	40 663 	Cáceres 	Flag of Extremadura (with coat of arms).svg Extremadura
+171 	Manacor 	40 279 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+172 	Écija 	40 270 	Sevilla 	Flag of Andalucía.svg Andalucía
+173 	San Fernando de Henares 	40 095 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+174 	Mieres 	39 505 	Principado de Asturias 	Flag of Asturias.svg Asturias
+175 	Narón 	39 426 	La Coruña 	Flag of Galicia.svg Galicia
+176 	Rentería 	39 381 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+177 	Villafranca del Panadés 	39 365 	Barcelona 	Flag of Catalonia.svg Cataluña
+178 	Soria 	39 171 	Soria 	Flag of Castile and León.svg Castilla y León
+179 	Blanes 	39 060 	Gerona 	Flag of Catalonia.svg Cataluña
+180 	Igualada 	38 987 	Barcelona 	Flag of Catalonia.svg Cataluña
+181 	Alhaurín de la Torre 	38 794 	Málaga 	Flag of Andalucía.svg Andalucía
+182 	La Rinconada 	38 277 	Sevilla 	Flag of Andalucía.svg Andalucía
+183 	Los Palacios y Villafranca 	38 173 	Sevilla 	Flag of Andalucía.svg Andalucía
+184 	Puerto del Rosario 	38 126 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+185 	Andújar 	37 975 	Jaén 	Flag of Andalucía.svg Andalucía
+186 	Ripollet 	37 648 	Barcelona 	Flag of Catalonia.svg Cataluña
+187 	Burjasot 	37 324 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+188 	Arucas 	37 299 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+189 	Villagarcía de Arosa 	37 283 	Pontevedra 	Flag of Galicia.svg Galicia
+190 	Lloret de Mar 	37 042 	Gerona 	Flag of Catalonia.svg Cataluña
+191 	Don Benito 	36 975 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+192 	Tomelloso 	36 746 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+193 	San Adrián de Besós 	36 496 	Barcelona 	Flag of Catalonia.svg Cataluña
+194 	Vendrell 	36 482 	Tarragona 	Flag of Catalonia.svg Cataluña
+195 	Los Realejos 	36 149 	S. C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+196 	Santa Eulalia del Río 	36 119 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+197 	Marrachí 	36 001 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+198 	Miranda de Ebro 	35 922 	Burgos 	Flag of Castile and León.svg Castilla y León
+199 	Teruel 	35 564 	Teruel 	Flag of Aragon.svg Aragón
+200 	Onteniente 	35 534 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+201 	Tudela 	35 170 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+202 	Cieza 	35 134 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+203 	Lluchmayor 	35 057 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+204 	Oleiros 	35 013 	La Coruña 	Flag of Galicia.svg Galicia
+205 	Úbeda 	34 835 	Jaén 	Flag of Andalucía.svg Andalucía
+206 	Moncada y Reixach 	34 802 	Barcelona 	Flag of Catalonia.svg Cataluña
+207 	Águilas 	34 706 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+208 	Azuqueca de Henares 	34 703 	Guadalajara 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+209 	Burriana 	34 643 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+210 	Torre Pacheco 	34 630 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+211 	Almendralejo 	34 543 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+212 	Petrel 	34 533 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+213 	Ronda 	34 381 	Málaga 	Flag of Andalucía.svg Andalucía
+214 	Villena 	34 163 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+215 	Yecla 	34 037 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+216 	Olot 	34 000 	Gerona 	Flag of Catalonia.svg Cataluña
+217 	Tortosa 	33 743 	Tarragona 	Flag of Catalonia.svg Cataluña
+218 	Villajoyosa 	33 580 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+219 	San Juan Despí 	33 502 	Barcelona 	Flag of Catalonia.svg Cataluña
+220 	Cambrils 	33 273 	Tarragona 	Flag of Catalonia.svg Cataluña
+221 	Barberá del Vallés 	32 832 	Barcelona 	Flag of Catalonia.svg Cataluña
+222 	Aranda de Duero 	32 621 	Burgos 	Flag of Castile and León.svg Castilla y León
+223 	Galapagar 	32 404 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+224 	Castro-Urdiales 	31 901 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+225 	Vall de Uxó 	31 819 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+226 	San Javier 	31 782 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+227 	San Andrés del Rabanedo 	31 470 	León 	Flag of Castile and León.svg Castilla y León
+228 	Santa Pola 	31 309 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+229 	Carballo 	31 256 	La Coruña 	Flag of Galicia.svg Galicia
+230 	Aldaya 	31 246 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+231 	Arteijo 	31 239 	La Coruña 	Flag of Galicia.svg Galicia
+232 	Arcos de la Frontera 	31 114 	Cádiz 	Flag of Andalucía.svg Andalucía
+233 	Totana 	30 981 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+234 	Alcázar de San Juan 	30 967 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+235 	Inca 	30 944 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+236 	Lejona 	30 857 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+237 	Agüimes 	30 742 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+238 	Manises 	30 704 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+239 	Mazarrón 	30 704 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+240 	Camargo 	30 611 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+241 	Ames 	30 544 	La Coruña 	Flag of Galicia.svg Galicia
+242 	Hellín 	30 419 	Albacete 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+243 	Coria del Río 	30 418 	Sevilla 	Flag of Andalucía.svg Andalucía
+244 	Ingenio 	30 340 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+245 	Valdepeñas 	30 277 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+246 	Puente Genil 	30 072 	Córdoba 	Flag of Andalucía.svg Andalucía
+247 	San Pedro de Ribas 	29 842 	Barcelona 	Flag of Catalonia.svg Cataluña
+248 	Alacuás 	29 660 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+249 	Culleredo 	29 638 	La Coruña 	Flag of Galicia.svg Galicia
+250 	San Roque 	29 575 	Cádiz 	Flag of Andalucía.svg Andalucía
+251 	Redondela 	29 563 	Pontevedra 	Flag of Galicia.svg Galicia
+252 	Puerto de la Cruz 	29 497 	S. C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+253 	Salt 	29 404 	Gerona 	Flag of Catalonia.svg Cataluña
+254 	Galdácano 	29 315 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+255 	Durango 	29 031 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+256 	Rota 	29 030 	Cádiz 	Flag of Andalucía.svg Andalucía
+257 	Játiva 	28 973 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+258 	Chirivella 	28 771 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+259 	Crevillente 	28 691 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+260 	Ciudadela 	28 641 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+261 	Carmona 	28 595 	Sevilla 	Flag of Andalucía.svg Andalucía
+262 	Níjar 	28 579 	Almería 	Flag of Andalucía.svg Andalucía
+263 	Sitges 	28 478 	Barcelona 	Flag of Catalonia.svg Cataluña
+264 	Vinaroz 	28 290 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+265 	Mahón 	28 099 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+266 	Sueca 	28 090 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+267 	Morón de la Frontera 	28 073 	Sevilla 	Flag of Andalucía.svg Andalucía
+268 	San Vicente dels Horts 	27 961 	Barcelona 	Flag of Catalonia.svg Cataluña
+269 	Premiá de Mar 	27 866 	Barcelona 	Flag of Catalonia.svg Cataluña
+270 	Sestao 	27 841 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+271 	Catarroja 	27 728 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+272 	Martorell 	27 645 	Barcelona 	Flag of Catalonia.svg Cataluña
+273 	Algemesí 	27 607 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+274 	San Andrés de la Barca 	27 434 	Barcelona 	Flag of Catalonia.svg Cataluña
+275 	Lepe 	27 409 	Huelva 	Flag of Andalucía.svg Andalucía
+276 	Lebrija 	27 398 	Sevilla 	Flag of Andalucía.svg Andalucía
+277 	Almuñécar 	27 397 	Granada 	Flag of Andalucía.svg Andalucía
+278 	Campello 	27 384 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+279 	Éibar 	27 380 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+280 	Villaviciosa de Odón 	27 276 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+281 	Camas 	27 258 	Sevilla 	Flag of Andalucía.svg Andalucía
+282 	Riveira 	27 249 	La Coruña 	Flag of Galicia.svg Galicia
+283 	Jávea 	27 225 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+384 	Navalcarnero 	26 954 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+285 	Candelaria 	26 746 	S.C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+386 	Illescas 	26 672 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+287 	Cangas de Morrazo 	26 584 	Pontevedra 	Flag of Galicia.svg Galicia
+288 	Benicarló 	26 486 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+289 	Salou 	26 386 	Tarragona 	Flag of Catalonia.svg Cataluña
+290 	Pineda de Mar 	26 240 	Barcelona 	Flag of Catalonia.svg Cataluña
+291 	Novelda 	26 054 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+292 	Villanueva de la Serena 	25 992 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+393 	San José 	25 849 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+294 	Oliva 	25 789 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+295 	Almazora 	25 632 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+296 	Caravaca de la Cruz 	25 591 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+297 	Villarrobledo 	25 589 	Albacete 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+298 	Santa Perpetua de Moguda 	25 556 	Barcelona 	Flag of Catalonia.svg Cataluña
+299 	Jumilla 	25 362 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+300 	Molins de Rey 	25 359 	Barcelona 	Flag of Catalonia.svg Cataluña
+301 	Paiporta 	25 084 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+302 	Vícar 	24 957 	Almería 	Flag of Andalucía.svg Andalucía
+303 	Marín 	24 878 	Pontevedra 	Flag of Galicia.svg Galicia
+304 	Onda 	24 856 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+305 	Tomares 	24 851 	Sevilla 	Flag of Andalucía.svg Andalucía
+306 	Cártama 	24 824 	Málaga 	Flag of Andalucía.svg Andalucía
+307 	Almansa 	24 800 	Albacete 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+308 	Cuart de Poblet 	24 776 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+309 	Adra 	24 713 	Almería 	Flag of Andalucía.svg Andalucía
+310 	San Pedro del Pinatar 	24 660 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+311 	Piélagos 	24 574 	Cantabria 	Flag of Cantabria.svg Cantabria
+312 	La Oliva 	24 508 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+313 	Muchamiel 	24 487 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+314 	San Antonio Abad 	24 478 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+315 	Alhaurín el Grande 	24 315 	Málaga 	Flag of Andalucía.svg Andalucía
+316 	Gáldar 	24 296 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+317 	Calafell 	24 289 	Tarragona 	Flag of Catalonia.svg Cataluña
+318 	Valls 	24 285 	Tarragona 	Flag of Catalonia.svg Cataluña
+319 	Erandio 	24 240 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+320 	Martos 	24 240 	Jaén 	Flag of Andalucía.svg Andalucía
+321 	Cambre 	24 141 	La Coruña 	Flag of Galicia.svg Galicia
+322 	Armilla 	23 901 	Granada 	Flag of Andalucía.svg Andalucía
+323 	Alboraya 	23 837 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+324 	Calahorra 	23 827 	La Rioja 	Flag of La Rioja (with coat of arms).svg La Rioja
+325 	Ciempozuelos 	23 773 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+326 	Tacoronte 	23 772 	S.C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+327 	Olesa de Montserrat 	23 645 	Barcelona 	Flag of Catalonia.svg Cataluña
+328 	Castellar del Vallés 	23 633 	Barcelona 	Flag of Catalonia.svg Cataluña
+329 	Puebla de Vallbona 	23 403 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+330 	Ibi 	23 365 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+331 	Montilla 	23 365 	Córdoba 	Flag of Andalucía.svg Andalucía
+332 	Los Barrios 	23 316 	Cádiz 	Flag of Andalucía.svg Andalucía
+333 	Almonte 	23 223 	Huelva 	Flag of Andalucía.svg Andalucía
+334 	Torrelodones 	23 123 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+335 	El Masnou 	23 119 	Barcelona 	Flag of Catalonia.svg Cataluña
+336 	Paracuellos de Jarama 	23 104 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+337 	Mairena del Alcor 	23 047 	Sevilla 	Flag of Andalucía.svg Andalucía
+338 	Zarauz 	23 040 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+339 	Puenteareas 	22 963 	Pontevedra 	Flag of Galicia.svg Galicia
+340 	Icod de los Vinos 	22 913 	S.C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+341 	Mejorada del Campo 	22 900 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+342 	San Juan de Alicante 	22 897 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+343 	Palafrugell 	22 868 	Gerona 	Flag of Catalonia.svg Cataluña
+344 	Priego de Córdoba 	22 855 	Córdoba 	Flag of Andalucía.svg Andalucía
+345 	Liria 	22 796 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+346 	Barbate 	22 720 	Cádiz 	Flag of Andalucía.svg Andalucía
+347 	Bétera 	22 696 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+348 	Laguna de Duero 	22 696 	Valladolid 	Flag of Castile and León.svg Castilla y León
+349 	Castrillón 	22 626 	Principado de Asturias 	Flag of Asturias.svg Asturias
+350 	Conil de la Frontera 	22 297 	Cádiz 	Flag of Andalucía.svg Andalucía
+351 	Cullera 	22 139 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+352 	Maracena 	22 059 	Granada 	Flag of Andalucía.svg Andalucía
+353 	Mondragón 	21 987 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+354 	Vilaseca 	21 935 	Tarragona 	Flag of Catalonia.svg Cataluña
+355 	Esparraguera 	21 766 	Barcelona 	Flag of Catalonia.svg Cataluña
+356 	San Felíu de Guixols 	21 760 	Gerona 	Flag of Catalonia.svg Cataluña
+357 	Alcalá la Real 	21 758 	Jaén 	Flag of Andalucía.svg Andalucía
+358 	Altea 	21 739 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+359 	Teguise 	21 724 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+360 	Moncada 	21 700 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+361 	San Juan de Aznalfarache 	21 556 	Sevilla 	Flag of Andalucía.svg Andalucía
+362 	Ribarroja del Turia 	21 521 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+363 	Alfaz del Pi 	21 494 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+364 	Coín 	21 456 	Málaga 	Flag of Andalucía.svg Andalucía
+365 	Moguer 	21 401 	Huelva 	Flag of Andalucía.svg Andalucía
+366 	Pilar de la Horadada 	21 348 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+367 	Las Torres de Cotillas 	21 341 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+368 	Alhama de Murcia 	21 308 	Región de Murcia 	Flag of the Region of Murcia.svg Murcia
+369 	Palma del Río 	21 241 	Córdoba 	Flag of Andalucía.svg Andalucía
+370 	Nerja 	21 204 	Málaga 	Flag of Andalucía.svg Andalucía
+371 	Isla Cristina 	21 165 	Huelva 	Flag of Andalucía.svg Andalucía
+372 	Mogán 	21 049 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+373 	La Estrada 	20 891 	Pontevedra 	Flag of Galicia.svg Galicia
+374 	Alfafar 	20 777 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+375 	Medina del Campo 	20 774 	Valladolid 	Flag of Castile and León.svg Castilla y León
+376 	Cabra 	20 704 	Córdoba 	Flag of Andalucía.svg Andalucía
+377 	Baza 	20 656 	Granada 	Flag of Andalucía.svg Andalucía
+378 	Amposta 	20 654 	Tarragona 	Flag of Catalonia.svg Cataluña
+379 	Loja 	20 641 	Granada 	Flag of Andalucía.svg Andalucía
+380 	Ayamonte 	20 629 	Huelva 	Flag of Andalucía.svg Andalucía
+381 	Carcagente 	20 520 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+382 	Requena 	20 510 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+383 	Picassent 	20 498 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+384 	Aspe 	20 482 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+385 	Guía de Isora 	20 460 	S.C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+386 	Barañáin 	20 325 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+387 	Algete 	20 311 	Comunidad de Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+388 	Calatayud 	20 191 	Zaragoza 	Flag of Aragon.svg Aragón
+389 	Manlleu 	20 104 	Barcelona 	Flag of Catalonia.svg Cataluña
+390 	Lalín 	20 044 	Pontevedra 	Flag of Galicia.svg Galicia
+391 	Los Llanos de Aridane 	20 043 	S.C. de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+392 	Tías 	20 037 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+393 	La Nucía 	19.967 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+394 	Baena 	19.782 	Córdoba 	Flag of Andalucía.svg Andalucía
+395 	Marchena 	19.773 	Sevilla 	Flag of Andalucía.svg Andalucía
+396 	San Quirico de Tarrasa 	19.664 	Barcelona 	Flag of Catalonia.svg Cataluña
+397 	La Unión 	19.630 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+398 	Villanueva de la Cañada 	19.611 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+399 	Porriño 	19.567 	Pontevedra 	Flag of Galicia.svg Galicia
+400 	Humanes de Madrid 	19.563 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+401 	Moaña 	19.458 	Pontevedra 	Flag of Galicia.svg Galicia
+402 	Puzol 	19.438 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+403 	Rosas 	19.438 	Gerona 	Flag of Catalonia.svg Cataluña
+404 	Las Franquesas del Vallés 	19.417 	Barcelona 	Flag of Catalonia.svg Cataluña
+405 	Pájara 	19.394 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+406 	Alcudia 	19.296 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+407 	Bañolas 	19.239 	Gerona 	Flag of Catalonia.svg Cataluña
+408 	Tolosa 	19.175 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+409 	Arahal 	19.168 	Sevilla 	Flag of Andalucía.svg Andalucía
+410 	El Viso del Alcor 	19.168 	Sevilla 	Flag of Andalucía.svg Andalucía
+411 	Lora del Río 	19.124 	Sevilla 	Flag of Andalucía.svg Andalucía
+412 	Chipiona 	19.095 	Cádiz 	Flag of Andalucía.svg Andalucía
+413 	Cartaya 	19.094 	Huelva 	Flag of Andalucía.svg Andalucía
+414 	Arroyo de la Encomienda 	19.042 	Valladolid 	Flag of Castile and León.svg Castilla y León
+415 	Güímar 	19.000 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+416 	La Zubia 	18.945 	Granada 	Flag of Andalucía.svg Andalucía
+417 	Monforte de Lemos 	18.922 	Lugo 	Flag of Galicia.svg Galicia
+418 	Boiro 	18.871 	La Coruña 	Flag of Galicia.svg Galicia
+419 	Amorebieta-Echano 	18.859 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+420 	Parets 	18.837 	Barcelona 	Flag of Catalonia.svg Cataluña
+421 	Guadix 	18.796 	Granada 	Flag of Andalucía.svg Andalucía
+422 	Archena 	18.734 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+423 	San Martín de la Vega 	18.734 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+424 	Huércal-Overa 	18.589 	Almería 	Flag of Andalucía.svg Andalucía
+425 	Villaquilambre 	18.583 	León 	Flag of Castile and León.svg Castilla y León
+426 	Teo 	18.510 	La Coruña 	Flag of Galicia.svg Galicia
+427 	Albolote 	18.497 	Granada 	Flag of Andalucía.svg Andalucía
+428 	Callosa de Segura 	18.497 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+429 	Manzanares 	18.475 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+430 	Utebo 	18.466 	Zaragoza 	Flag of Aragon.svg Aragón
+431 	Silla 	18.462 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+432 	Santa Brígida 	18.437 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+433 	Daimiel 	18.396 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+434 	Burlada 	18.338 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+435 	Calella 	18.317 	Barcelona 	Flag of Catalonia.svg Cataluña
+436 	Benavente 	18.315 	Zamora 	Flag of Castile and León.svg Castilla y León
+437 	Malgrat de Mar 	18.295 	Barcelona 	Flag of Catalonia.svg Cataluña
+438 	Llodio 	18.212 	Álava 	Flag of the Basque Country.svg País Vasco
+439 	Cardedeu 	18.158 	Barcelona 	Flag of Catalonia.svg Cataluña
+440 	Lasarte-Oria 	18.152 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+441 	San Bartolomé 	18.151 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+442 	El Astillero 	18.134 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+443 	Tarifa 	18.116 	Cádiz 	Flag of Andalucía.svg Andalucía
+444 	Atarfe 	18.092 	Granada 	Flag of Andalucía.svg Andalucía
+445 	Bailén 	18.085 	Jaén 	Flag of Andalucía.svg Andalucía
+446 	San Lorenzo de El Escorial 	18.038 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+447 	Benicasim 	19.957 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+448 	San Miguel de Abona 	17.870 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+449 	Palamós 	17.677 	Gerona 	Flag of Catalonia.svg Cataluña
+450 	Rojales 	17.622 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+451 	Nigrán 	17.593 	Pontevedra 	Flag of Galicia.svg Galicia
+452 	La Eliana 	17.591 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+453 	San Celoni 	17.540 	Barcelona 	Flag of Catalonia.svg Cataluña
+454 	Castilleja de la Cuesta 	17.532 	Sevilla 	Flag of Andalucía.svg Andalucía
+455 	Osuna 	17.532 	Sevilla 	Flag of Andalucía.svg Andalucía
+456 	Tabernes de Valldigna 	17.485 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+457 	Munguía 	17.363 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+458 	Felanich 	17.319 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+459 	Sangenjo 	17.314 	Pontevedra 	Flag of Galicia.svg Galicia
+460 	Pozoblanco 	17.292 	Córdoba 	Flag of Andalucía.svg Andalucía
+461 	Navalmoral de la Mata 	17.247 	Cáceres 	Flag of Extremadura (with coat of arms).svg Extremadura
+462 	Monzón 	17.237 	Huesca 	Flag of Aragon.svg Aragón
+463 	El Rosario 	17.191 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+464 	Caldas de Montbui 	17.137 	Barcelona 	Flag of Catalonia.svg Cataluña
+465 	Huércal de Almería 	17.068 	Almería 	Flag of Andalucía.svg Andalucía
+466 	Tuy 	16.966 	Pontevedra 	Flag of Galicia.svg Galicia
+467 	Barbastro 	16.961 	Huesca 	Flag of Aragon.svg Aragón
+468 	Fuenterrabía 	16.950 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+469 	Villanueva del Pardillo 	16.950 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+470 	San Justo Desvern 	16.927 	Barcelona 	Flag of Catalonia.svg Cataluña
+471 	Poyo 	16.901 	Pontevedra 	Flag of Galicia.svg Galicia
+472 	Guernica y Luno 	16.869 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+473 	Bermeo 	16.861 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+474 	Zafra 	16.855 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+475 	San Martín del Rey Aurelio 	16.850 	Asturias 	Flag of Asturias.svg Asturias
+476 	Ubrique 	16.766 	Cádiz 	Flag of Andalucía.svg Andalucía
+477 	Mula 	16.689 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+478 	Ejea de los Caballeros 	16.541 	Zaragoza 	Flag of Aragon.svg Aragón
+479 	Balaguer 	16.530 	Lérida 	Flag of Catalonia.svg Cataluña
+480 	Las Cabezas de San Juan 	16.516 	Sevilla 	Flag of Andalucía.svg Andalucía
+481 	Tárrega 	16.481 	Lérida 	Flag of Catalonia.svg Cataluña
+482 	Tordera 	16.453 	Barcelona 	Flag of Catalonia.svg Cataluña
+483 	Pollensa 	16.222 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+484 	Montornés del Vallés 	16.218 	Barcelona 	Flag of Catalonia.svg Cataluña
+485 	Pasajes 	16.207 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+486 	Fuente Álamo de Murcia 	16.205 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+487 	La Algaba 	16.203 	Sevilla 	Flag of Andalucía.svg Andalucía
+488 	Berga 	16.175 	Barcelona 	Flag of Catalonia.svg Cataluña
+489 	Albal 	16.136 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+490 	Baeza 	16.100 	Jaén 	Flag of Andalucía.svg Andalucía
+491 	Alcañiz 	16.043 	Teruel 	Flag of Aragon.svg Aragón
+492 	Ermua 	16.028 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+493 	Corvera de Asturias 	15.968 	Asturias 	Flag of Asturias.svg Asturias
+494 	Santomera 	15.952 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+495 	Yaiza 	15.944 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+496 	Canovellas 	15.937 	Barcelona 	Flag of Catalonia.svg Cataluña
+497 	La Garriga 	15.912 	Barcelona 	Flag of Catalonia.svg Cataluña
+498 	La Solana 	15.792 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+499 	La Roda 	15.748 	Albacete 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+500 	Santa Cruz de La Palma 	15.711 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+501 	Montijo 	15 674 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+502 	Vivero 	15.615 	Lugo 	Flag of Galicia.svg Galicia
+503 	La Carolina 	15.579 	Jaén 	Flag of Andalucía.svg Andalucía
+504 	Masamagrell 	15.574 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+505 	Guadarrama 	15.488 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+506 	Torredembarra 	15.460 	Tarragona 	Flag of Catalonia.svg Cataluña
+507 	Guardamar del Segura 	15.386 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+508 	Carlet 	15.384 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+509 	El Escorial 	15.364 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+510 	Cehegín 	15.321 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+511 	Los Alcázares 	15.289 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+512 	Arenys de Mar 	15.253 	Barcelona 	Flag of Catalonia.svg Cataluña
+513 	Mos 	15.240 	Pontevedra 	Flag of Galicia.svg Galicia
+514 	Espartinas 	15.198 	Sevilla 	Flag of Andalucía.svg Andalucía
+515 	Vera 	15.168 	Almería 	Flag of Andalucía.svg Andalucía
+516 	Sada 	15.150 	La Coruña 	Flag of Galicia.svg Galicia
+517 	Miguelturra 	15.133 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+518 	Torrox 	15.098 	Málaga 	Flag of Andalucía.svg Andalucía
+519 	Santa Fe 	15.079 	Granada 	Flag of Andalucía.svg Andalucía
+520 	Punta Umbría 	15.053 	Huelva 	Flag of Andalucía.svg Andalucía
+521 	Piera 	15.001 	Barcelona 	Flag of Catalonia.svg Cataluña
+522 	Santa Marta de Tormes 	14.939 	Salamanca 	Flag of Castile and León.svg Castilla y León
+523 	Fraga 	14.925 	Huesca 	Flag of Aragon.svg Aragón
+524 	Puerto Lumbreras 	14.874 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+525 	Llissá de Munt 	14.759 	Barcelona 	Flag of Catalonia.svg Cataluña
+526 	Chiva 	14.758 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+527 	Manilva 	14.750 	Málaga 	Flag of Andalucía.svg Andalucía
+528 	Tarancón 	14.750 	Cuenca 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+529 	Vergara 	14.743 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+530 	San Carlos de la Rápita 	14.718 	Tarragona 	Flag of Catalonia.svg Cataluña
+531 	Vallirana 	14.676 	Barcelona 	Flag of Catalonia.svg Cataluña
+532 	Azpeitia 	14.666 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+533 	Villaviciosa 	14.642 	Asturias 	Flag of Asturias.svg Asturias
+534 	Andoáin 	14.613 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+535 	Zizur Mayor 	14.612 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+536 	Arnedo 	14.609 	La Rioja 	Flag of La Rioja (with coat of arms).svg La Rioja
+537 	Cubellas 	14.608 	Barcelona 	Flag of Catalonia.svg Cataluña
+538 	Mollerusa 	14.585 	Lérida 	Flag of Catalonia.svg Cataluña
+539 	Torredelcampo 	14.538 	Jaén 	Flag of Andalucía.svg Andalucía
+540 	Benetúser 	14.505 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+541 	Palau-solità i Plegamans 	14.494 	Barcelona 	Flag of Catalonia.svg Cataluña
+542 	Villalba 	14.487 	Lugo 	Flag of Galicia.svg Galicia
+543 	Alpedrete 	14.417 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+544 	Noya 	14.337 	La Coruña 	Flag of Galicia.svg Galicia
+545 	Santa Úrsula 	14.296 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+546 	Canet de Mar 	14.284 	Barcelona 	Flag of Catalonia.svg Cataluña
+547 	Churriana de la Vega 	14.215 	Granada 	Flag of Andalucía.svg Andalucía
+548 	Gondomar 	14.192 	Pontevedra 	Flag of Galicia.svg Galicia
+549 	Bollullos Par del Condado 	14.177 	Huelva 	Flag of Andalucía.svg Andalucía
+550 	Corbera de Llobregat 	14.168 	Barcelona 	Flag of Catalonia.svg Cataluña
+551 	Verín 	14.031 	Orense 	Flag of Galicia.svg Galicia
+552 	Pilas 	13.999 	Sevilla 	Flag of Andalucía.svg Andalucía
+553 	Cambados 	13.977 	Pontevedra 	Flag of Galicia.svg Galicia
+554 	Santa María de Guía de Gran Canaria 	13.970 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+555 	Beasáin 	13.949 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+556 	Campo de Criptana 	13.949 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+557 	Tuineje 	13.945 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+558 	La Carlota 	13.936 	Córdoba 	Flag of Andalucía.svg Andalucía
+559 	Carballino 	13.913 	Orense 	Flag of Galicia.svg Galicia
+560 	Torelló 	13.877 	Barcelona 	Flag of Catalonia.svg Cataluña
+561 	Torredonjimeno 	13.874 	Jaén 	Flag of Andalucía.svg Andalucía
+562 	Llanera 	13.846 	Asturias 	Flag of Asturias.svg Asturias
+563 	Llanes 	13.841 	Asturias 	Flag of Asturias.svg Asturias
+564 	Sóller 	13.791 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+565 	Canals 	13.775 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+566 	El Barco de Valdeorras 	13.761 	Orense 	Flag of Galicia.svg Galicia
+567 	Ogíjares 	13.718 	Granada 	Flag of Andalucía.svg Andalucía
+568 	Estella 	13.668 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+569 	Tomiño 	13.548 	Pontevedra 	Flag of Galicia.svg Galicia
+570 	Sanlúcar la Mayor 	13.539 	Sevilla 	Flag of Andalucía.svg Andalucía
+571 	Aguilar de la Frontera 	13.511 	Córdoba 	Flag of Andalucía.svg Andalucía
+572 	Badia del Vallès 	13.482 	Barcelona 	Flag of Catalonia.svg Cataluña
+573 	Meco 	13.426 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+574 	Sopelana 	13.407 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+575 	Béjar 	13.403 	Salamanca 	Flag of Castile and León.svg Castilla y León
+576 	Laviana 	13.402 	Asturias 	Flag of Asturias.svg Asturias
+577 	Cuevas del Almanzora 	13.362 	Almería 	Flag of Andalucía.svg Andalucía
+578 	Sarria 	13.337 	Lugo 	Flag of Galicia.svg Galicia
+579 	Nules 	13.305 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+580 	Alginet 	13.283 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+581 	Gines 	13.261 	Sevilla 	Flag of Andalucía.svg Andalucía
+582 	Torrijos 	13.257 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+583 	Fene 	13.250 	La Coruña 	Flag of Galicia.svg Galicia
+584 	La Llagosta 	13.247 	Barcelona 	Flag of Catalonia.svg Cataluña
+585 	Villafranca de los Barros 	13.224 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+586 	Cangas del Narcea 	13.213 	Asturias 	Flag of Asturias.svg Asturias
+587 	Abarán 	13.183 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+588 	Godella 	13.029 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+589 	Betanzos 	12.966 	La Coruña 	Flag of Galicia.svg Galicia
+590 	Álora 	12.941 	Málaga 	Flag of Andalucía.svg Andalucía
+591 	Villafranca de los Barros 	12.929 	Huesca 	Flag of Aragon.svg Aragón
+592 	Ciudad Rodrigo 	12.896 	Salamanca 	Flag of Castile and León.svg Castilla y León
+593 	San Agustín del Guadalix 	12.862 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+594 	Valverde del Camino 	12.857 	Huelva 	Flag of Andalucía.svg Andalucía
+595 	Coria 	12.886 	Cáceres 	Flag of Extremadura (with coat of arms).svg Extremadura
+596 	Vejer de la Frontera 	12.788 	Cádiz 	Flag of Andalucía.svg Andalucía
+597 	Villalbilla 	12.719 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+598 	La Puebla 	12.714 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+599 	Santa Cruz de Bezana 	12.679 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+600 	Órdenes 	12.669 	La Coruña 	Flag of Galicia.svg Galicia
+601 	San Sadurní de Noya 	12.654 	Barcelona 	Flag of Catalonia.svg Cataluña
+602 	Socuéllamos 	12.628 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+603 	Brenes 	12.615 	Sevilla 	Flag of Andalucía.svg Andalucía
+604 	Santa Coloma de Farnés 	12.583 	Gerona 	Flag of Catalonia.svg Cataluña
+605 	Cuarte de Huerva 	12.581 	Zaragoza 	Flag of Aragon.svg Aragón
+606 	Guillena 	12.570 	Sevilla 	Flag of Andalucía.svg Andalucía
+607 	Gibraleón 	12.523 	Huelva 	Flag of Andalucía.svg Andalucía
+608 	Teror 	12.489 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+609 	Vilanova del Camí 	12.409 	Barcelona 	Flag of Catalonia.svg Cataluña
+610 	Alovera 	12.407 	Guadalajara 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+611 	Salobreña 	12.399 	Granada 	Flag of Andalucía.svg Andalucía
+612 	Berja 	12.380 	Almería 	Flag of Andalucía.svg Andalucía
+613 	Moralzarzal 	12.372 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+614 	Castellbisbal 	12.277 	Barcelona 	Flag of Catalonia.svg Cataluña
+615 	Monóvar 	12.272 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+616 	Villamartín 	12.267 	Cádiz 	Flag of Andalucía.svg Andalucía
+617 	Arrigorriaga 	12.260 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+618 	Valdés 	12.243 	Asturias 	Flag of Asturias.svg Asturias
+619 	Velilla de San Antonio 	12.222 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+620 	Abrera 	12.216 	Barcelona 	Flag of Catalonia.svg Cataluña
+621 	Bueu 	12.189 	Pontevedra 	Flag of Galicia.svg Galicia
+622 	Seo de Urgel 	12.185 	Lérida 	Flag of Catalonia.svg Cataluña
+623 	Valdemorillo 	12.168 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+624 	Formentera 	12.124 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+625 	Bayona 	12.119 	Pontevedra 	Flag of Galicia.svg Galicia
+626 	Argentona 	12.051 	Barcelona 	Flag of Catalonia.svg Cataluña
+627 	Olivenza 	12.032 	Badajoz 	Flag of Extremadura (with coat of arms).svg Extremadura
+628 	Valle de Trápaga 	12.030 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+629 	La Puebla del Río 	11.995 	Sevilla 	Flag of Andalucía.svg Andalucía
+630 	Bolaños de Calatrava 	11.994 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+631 	Jódar 	11.994 	Jaén 	Flag of Andalucía.svg Andalucía
+632 	Benifayó 	11.903 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+633 	La Alcudia 	11.820 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+634 	Alcalá del Río 	11.813 	Sevilla 	Flag of Andalucía.svg Andalucía
+635 	Cunit 	11.808 	Tarragona 	Flag of Catalonia.svg Cataluña
+636 	Huétor Vega 	11.777 	Granada 	Flag of Andalucía.svg Andalucía
+637 	Albatera 	11.756 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+638 	Medina-Sidonia 	11.756 	Cádiz 	Flag of Andalucía.svg Andalucía
+639 	Utiel 	11.748 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+640 	Bullas 	11.714 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+641 	Santa Margarita 	11.632 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+642 	Montgat 	11.621 	Barcelona 	Flag of Catalonia.svg Cataluña
+643 	El Casar 	11.601 	Guadalajara 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+644 	Elgóibar 	11.594 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+645 	Azcoitia 	11.587 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+646 	Deltebre 	11.544 	Tarragona 	Flag of Catalonia.svg Cataluña
+647 	Montroig 	11.521 	Tarragona 	Flag of Catalonia.svg Cataluña
+648 	Torroella de Montgrí 	12.506 	Gerona 	Flag of Catalonia.svg Cataluña
+649 	Laredo 	11.446 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+650 	Cocentaina 	11.432 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+651 	Lena 	11.430 	Asturias 	Flag of Asturias.svg Asturias
+652 	Capdepera 	11.356 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+653 	Oñate 	11.348 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+654 	Pallejá 	11.348 	Barcelona 	Flag of Catalonia.svg Cataluña
+655 	Santiago del Teide 	11.338 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+656 	Haro 	11.324 	La Rioja 	Flag of La Rioja (with coat of arms).svg La Rioja
+657 	Ceutí 	11.321 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+658 	Laracha 	11.295 	La Coruña 	Flag of Galicia.svg Galicia
+659 	Aller 	11.286 	Asturias 	Flag of Asturias.svg Asturias
+660 	Picaña 	11.281 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+661 	Astorga 	11.264 	León 	Flag of Castile and León.svg Castilla y León
+662 	Peligros 	11.242 	Granada 	Flag of Andalucía.svg Andalucía
+663 	Santañy 	11.220 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+664 	Sonseca 	11.198 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+665 	Mancha Real 	11.194 	Jaén 	Flag of Andalucía.svg Andalucía
+666 	La Puebla de Cazalla 	11.190 	Sevilla 	Flag of Andalucía.svg Andalucía
+667 	Peñarroya-Pueblonuevo 	11.160 	Córdoba 	Flag of Andalucía.svg Andalucía
+668 	Albox 	11.144 	Almería 	Flag of Andalucía.svg Andalucía
+669 	Quintanar de la Orden 	11.130 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+670 	Son Servera 	11.119 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+671 	Beniel 	11.114 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+672 	Tegueste 	11.114 	Santa Cruz de Tenerife 	Flag of the Canary Islands (simple).svg Canarias
+673 	Santoña 	11.085 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+674 	Echévarri 	11.017 	Vizcaya 	Flag of the Basque Country.svg País Vasco
+675 	Los Corrales de Buelna 	11.003 	Cantabria 	Flag of Cantabria (Official).svg Cantabria
+676 	Fuensalida 	11.001 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+677 	Benisa 	11.000 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+678 	Villacarrillo 	11.000 	Jaén 	Flag of Andalucía.svg Andalucía
+679 	Benaguacil 	10.967 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+680 	Fuente Palmera 	10.893 	Córdoba 	Flag of Andalucía.svg Andalucía
+681 	Andrach 	10.873 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+682 	Antigua 	10.834 	Las Palmas 	Flag of the Canary Islands (simple).svg Canarias
+683 	Ansoáin 	10.817 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+684 	Madridejos 	10.793 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+685 	Palos de la Frontera 	10.785 	Huelva 	Flag of Andalucía.svg Andalucía
+686 	Castellón de Ampurias 	10.784 	Gerona 	Flag of Catalonia.svg Cataluña
+687 	San Juan de Torruella 	10.759 	Barcelona 	Flag of Catalonia.svg Cataluña
+688 	El Grove 	10.758 	Pontevedra 	Flag of Galicia.svg Galicia
+689 	La Bisbal del Ampurdán 	10.742 	Gerona 	Flag of Catalonia.svg Cataluña
+690 	Pinos Puente 	10.718 	Granada 	Flag of Andalucía.svg Andalucía
+691 	Tarazona 	10.713 	Zaragoza 	Flag of Aragon.svg Aragón
+692 	Calonge 	10.709 	Gerona 	Flag of Catalonia.svg Cataluña
+693 	Alcaudete 	10.698 	Jaén 	Flag of Andalucía.svg Andalucía
+694 	San Andrés de Llavaneras 	10.663 	Barcelona 	Flag of Catalonia.svg Cataluña
+695 	Tafalla 	10.660 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+696 	Teulada 	10.654 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+697 	Cantillana 	10.645 	Sevilla 	Flag of Andalucía.svg Andalucía
+698 	Barbadás 	10.638 	Orense 	Flag of Galicia.svg Galicia
+699 	Carreño 	10.636 	Asturias 	Flag of Asturias.svg Asturias
+700 	La Palma del Condado 	10.624 	Huelva 	Flag of Andalucía.svg Andalucía
+701 	Meliana 	10.619 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+702 	Yuncos 	10.613 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+703 	La Roca del Vallés 	10.599 	Barcelona 	Flag of Catalonia.svg Cataluña
+704 	Ripoll 	10.583 	Gerona 	Flag of Catalonia.svg Cataluña
+705 	Castillo de Aro 	10.567 	Gerona 	Flag of Catalonia.svg Cataluña
+706 	Alberique 	10.537 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+707 	Alcora 	10.535 	Castellón 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+708 	Gozón 	10.534 	Asturias 	Flag of Asturias.svg Asturias
+709 	Vegas del Genil 	10.518 	Granada 	Flag of Andalucía.svg Andalucía
+710 	Ocaña 	10.489 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+711 	La Bañeza 	10.450 	León 	Flag of Castile and León.svg Castilla y León
+712 	Premiá de Dalt 	10.446 	Barcelona 	Flag of Catalonia.svg Cataluña
+713 	Villanueva de Arosa 	10.406 	Pontevedra 	Flag of Galicia.svg Galicia
+714 	La Escala 	10.400 	Gerona 	Flag of Catalonia.svg Cataluña
+715 	Puentes de García Rodríguez 	10.399 	La Coruña 	Flag of Galicia.svg Galicia
+716 	Brunete 	10.374 	Madrid 	Flag of the Community of Madrid.svg Comunidad de Madrid
+717 	Bollullos de la Mitación 	10.330 	Sevilla 	Flag of Andalucía.svg Andalucía
+718 	Consuegra 	10.328 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+719 	Villava 	10.317 	Comunidad Foral de Navarra 	Bandera de Navarra.svg Navarra
+720 	Íllora 	10.286 	Granada 	Flag of Andalucía.svg Andalucía
+721 	Calasparra 	10.268 	Murcia 	Flag of the Region of Murcia.svg Región de Murcia
+722 	Amurrio 	10.260 	Álava 	Flag of the Basque Country.svg País Vasco
+723 	Oyarzun 	10.175 	Guipúzcoa 	Flag of the Basque Country.svg País Vasco
+724 	Sedaví 	10.172 	Valencia 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+725 	Campos 	10.164 	Islas Baleares 	Flag of the Balearic Islands.svg Islas Baleares
+726 	Huétor-Tájar 	10.162 	Granada 	Flag of Andalucía.svg Andalucía
+727 	Pego 	10.158 	Alicante 	Flag of the Valencian Community (2x3).svg Comunidad Valenciana
+728 	La Guarida 	10.133 	Pontevedra 	Flag of Galicia.svg Galicia
+729 	Villarrubia de los Ojos 	10.115 	Ciudad Real 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+730 	Grado 	10.127 	Asturias 	Flag of Asturias.svg Asturias
+731 	Caudete 	10.115 	Albacete 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+732 	Rute 	10.042 	Córdoba 	Flag of Andalucía.svg Andalucía
+733 	Cassá de la Selva 	10.025 	Gerona 	Flag of Catalonia.svg Cataluña
+734 	Bargas 	10.021 	Toledo 	Flag of Castile-La Mancha.svg Castilla-La Mancha
+735 	Ginzo de Limia 	10.004 	Orense 	Flag of Galicia.svg Galicia
